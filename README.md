@@ -18,7 +18,7 @@ Tensorflow를 설치할 때, 2.0 버전 이상에서는 코드가 동작하지 �
 - ```pip3 install matplotlib```
 - ```pip3 install numpy```
 - ```pip3 install glob```
-- ```pip3 install jupyter notebook```
+- ```pip3 install jupyter```
 
 위 항목들이 설치가 필요한 라이브러리들이다.
 dlib의 경우 cmake를 받아놓은 상태가 아니면 설치가 되지 않으니, cmake 부터 설치하여야 한다.
